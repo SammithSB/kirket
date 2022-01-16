@@ -15,7 +15,9 @@ description: Cricket is perfect to merge with memes because the game is
   weird positions and getting out, not to add the dirty jokes you can crack with
   your mates like "Wood gets Head early in the morning".
 intro:
-  blurbs: []
+  blurbs:
+    - text: When England come up with another pathetic batting display.
+      image: /img/4ypslqt.jpg
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
